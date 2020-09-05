@@ -11,7 +11,7 @@
     <title>Ingreso tickets</title>
   </head>
   <body style="background-color: #E1E6E3;">
-    
+
   <!--  comienzo del navbar-->
 
   <nav class="navbar navbar-expand-lg navbar-light bg-light">
